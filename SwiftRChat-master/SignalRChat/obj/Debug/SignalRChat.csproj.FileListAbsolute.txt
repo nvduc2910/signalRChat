@@ -1,0 +1,46 @@
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\SignalRChat.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Owin.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Cors.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\System.Web.Cors.dll
+C:\Users\Admin\Documents\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Cors.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\SignalRChat.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.Cors.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Owin.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\System.Web.Cors.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.Cors.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Duc KaKa\Downloads\SwiftRChat-master\SwiftRChat-master\SignalRChat\obj\Debug\SignalRChat.pdb
